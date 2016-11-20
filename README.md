@@ -18,4 +18,4 @@ A hash value determining application that can be used to secure text information
 
 ## Author
 
-[David Tran](http://davidtranscend.com/)
+[David Tran](http://davidtranscend.com/) 
