@@ -1,20 +1,21 @@
 # HashIt
-## Overview
-A hash value determining application created using HTML, CSS, JavaScript, jQuery, and PHP.
 
-<a href="http://davidtranscend.com/portfolio/HashIt/" target="_blank">Here</a> is a link to the application.
+A hash value determining application that can be used to secure text information.
 
-### Features
-* A simple and attractive design
-* Able to detect empty and false inputs
+## Version
 
-### Preview
-![Alt tag](https://raw.github.com/davidlamt/PreviewImages/master/HashIt/preview1-image.png)
+**1.0.0**
 
-![Alt tag](https://raw.github.com/davidlamt/PreviewImages/master/HashIt/preview2-image.png)
+## Demo
 
-![Alt tag](https://raw.github.com/davidlamt/PreviewImages/master/HashIt/preview3-image.png)
+[http://davidtranscend.com/portfolio/HashIt/](http://davidtranscend.com/portfolio/HashIt/)
 
-## Instructions
-1. Transfer these files to your desired domain.
-2. Access your domain with your browser of choice.
+## History
+[Change Log](https://github.com/davidlamt/HashIt/blob/master/CHANGELOG.md)
+
+## License
+[MIT License](https://github.com/davidlamt/HashIt/blob/master/LICENSE)
+
+## Author
+
+[David Tran](http://davidtranscend.com/) 
